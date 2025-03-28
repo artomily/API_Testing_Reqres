@@ -1,1 +1,1 @@
-CRUD Test with Katalon Studio to reqres.in
+CRUD API Test with Katalon Studio to reqres.in
